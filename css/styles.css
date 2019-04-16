@@ -1,0 +1,10 @@
+body {
+    font-family: Helvetica;
+    background-color: #ffffff;
+    color: #4b4b4b;
+}
+
+span.desc {
+    width: 150px;
+    float:left;
+}
